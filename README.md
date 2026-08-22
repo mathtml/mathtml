@@ -63,15 +63,6 @@ Tools          Git · GitHub · VS Code · IntelliJ
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mathtml&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathtml&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
----
-
 ### 🐍 Contribution Graph
 
 <p align="center">
