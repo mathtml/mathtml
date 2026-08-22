@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matheus Gonçalves 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> · React · Node.js · TypeScript · AWS
+  <strong>Full-Stack Developer</strong> · React · Node.js · Java · SpringBoot · TypeScript · AWS ·
 </p>
 
 <p align="center">
