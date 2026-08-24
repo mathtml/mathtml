@@ -24,7 +24,7 @@ I'm a **Full-Stack Developer** with 4+ years of experience building modern, scal
 
 I enjoy turning ideas into reliable products, working across both frontend and backend while focusing on **clean architecture, performance and good engineering practices**.
 
-Currently working mainly with **React, Next.js, Node.js, TypeScript and AWS**.
+Currently working mainly with **React, Next.js, Node.js, TypeScript, Java, SpringBoot and AWS**.
 
 ---
 
